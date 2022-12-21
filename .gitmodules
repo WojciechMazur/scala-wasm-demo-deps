@@ -1,0 +1,18 @@
+[submodule "scala-java-time"]
+	path = scala-java-time
+	url = https://github.com/cquiroz/scala-java-time.git
+[submodule "scala-java-locales"]
+	path = scala-java-locales
+	url = https://github.com/cquiroz/scala-java-locales
+[submodule "cats-effect"]
+	path = cats-effect
+	url = https://github.com/typelevel/cats-effect
+[submodule "cats"]
+	path = cats
+	url = https://github.com/typelevel/cats
+[submodule "sbt-locales"]
+	path = sbt-locales
+	url = https://github.com/cquiroz/sbt-locales
+[submodule "portable-scala-reflect"]
+	path = portable-scala-reflect
+	url = https://github.com/portable-scala/portable-scala-reflect
