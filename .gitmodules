@@ -1,18 +1,24 @@
 [submodule "scala-java-time"]
 	path = scala-java-time
-	url = https://github.com/cquiroz/scala-java-time.git
+	url = https://github.com/WojciechMazur/scala-java-time.git
+	branch = demo/scala-wasm
 [submodule "scala-java-locales"]
 	path = scala-java-locales
-	url = https://github.com/cquiroz/scala-java-locales
+	url = https://github.com/WojciechMazur/scala-java-locales
+	branch = demo/scala-wasm
 [submodule "cats-effect"]
 	path = cats-effect
-	url = https://github.com/typelevel/cats-effect
+	url = https://github.com/WojciechMazur/cats-effect
+	branch = demo/scala-wasm
 [submodule "cats"]
 	path = cats
-	url = https://github.com/typelevel/cats
+	url = https://github.com/WojciechMazur/cats
+	branch = demo/scala-wasm
 [submodule "sbt-locales"]
 	path = sbt-locales
-	url = https://github.com/cquiroz/sbt-locales
+	url = https://github.com/WojciechMazur/sbt-locales
+	branch = demo/scala-wasm
 [submodule "portable-scala-reflect"]
 	path = portable-scala-reflect
-	url = https://github.com/portable-scala/portable-scala-reflect
+	url = https://github.com/WojciechMazur/portable-scala-reflect
+	branch = demo/scala-wasm
